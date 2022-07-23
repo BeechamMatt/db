@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "title": "title1",
+            "id": 1000,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a egestas turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque efficitur orci euismod augue scelerisque, ut pellentesque diam tincidunt. Morbi id scelerisque quam, non ultrices lectus."
+
+        },
+        {
+            "title": "title2",
+            "id": 1001,
+            "text": "Donec posuere sagittis fermentum. Pellentesque at lectus commodo, pulvinar massa id, suscipit mi. Integer sed libero est. Fusce sed metus ac justo malesuada iaculis."
+            
+        },
+        {
+            "title": "title3",
+            "id": 1002,
+            "text": "Sed porta pretium dapibus. Maecenas maximus consectetur mauris nec dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            
+        }
+    ]
+}
